@@ -1,6 +1,6 @@
 class StringBuilder {
-  constructor(initialValue) {
-    this.value = initialValue;
+  constructor(value) {
+    this.value = value;
   }
 
   getValue() {
